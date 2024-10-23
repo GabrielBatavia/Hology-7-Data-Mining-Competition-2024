@@ -3,14 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Penyisihan Hology Data Mining\sample_submission.csv">
+        <entry key="\Penyisihan_Hology_DataMining\sample_submission.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Penyisihan Hology Data Mining\train.csv">
+        <entry key="\Penyisihan_Hology_DataMining\train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\base\base4_result\test_predictions.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

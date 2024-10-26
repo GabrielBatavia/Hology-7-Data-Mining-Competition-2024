@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\base\base5_result\test_predictions2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\base\base5_result\test_predictions_b3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\base\jenis_distribution.csv">
           <value>
             <Attribute>

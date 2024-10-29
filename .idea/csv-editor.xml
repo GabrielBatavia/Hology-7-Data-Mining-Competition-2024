@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\base\base5_result\predict_label_final.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\base\base5_result\test_predictions.csv">
           <value>
             <Attribute>
